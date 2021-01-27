@@ -1,0 +1,7 @@
+for i in icon-*.svg;do rsvg-convert -w 80 -f png -o ../png/${i%.*}.png $i;done;
+for i in icon-*.svg;do rsvg-convert -w 160 -f png -o ../png/2.0x/${i%.*}.png $i;done;
+for i in icon-*.svg;do rsvg-convert -w 240 -f png -o ../png/3.0x/${i%.*}.png $i;done;
+
+for i in pict-*.svg;do rsvg-convert -w 300 -f png -o ../png/${i%.*}.png $i;done;
+for i in pict-*.svg;do rsvg-convert -w 500 -f png -o ../png/2.0x/${i%.*}.png $i;done;
+for i in pict-*.svg;do rsvg-convert -w 600 -f png -o ../png/3.0x/${i%.*}.png $i;done;

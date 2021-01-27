@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Flat"
+   height="512"
+   viewBox="0 0 512 512"
+   width="512"
+   version="1.1"
+   sodipodi:docname="icon-location.svg"
+   inkscape:version="1.0.1 (c497b03c, 2020-09-10)">
+  <metadata
+     id="metadata848">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs846" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1382"
+     inkscape:window-height="806"
+     id="namedview844"
+     showgrid="false"
+     inkscape:zoom="1.1740523"
+     inkscape:cx="242.37199"
+     inkscape:cy="186.15643"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Flat" />
+  <g
+     id="g855"
+     transform="matrix(1.1034483,0,0,1.1034483,-26.483298,-26.482765)">
+    <path
+       d="M 440,208 C 440,106.38 357.621,24 256,24 a 184.027,184.027 0 0 0 -80,349.742 l 59.418,106.077 A 16,16 0 0 0 249.377,488 h 13.246 a 16,16 0 0 0 13.959,-8.181 L 336,373.742 A 184.01,184.01 0 0 0 440,208 Z"
+       fill="#eb423f"
+       id="path833" />
+    <circle
+       cx="256"
+       cy="208"
+       fill="#e9eef2"
+       r="136"
+       id="circle835" />
+    <path
+       d="m 200,216 v -80 h -32 v 80 32 32 h 32 v -32 h 112 v 32 h 32 v -32 -16 -16 z"
+       fill="#3397e8"
+       id="path837" />
+    <path
+       d="m 200,184 h 128 a 16,16 0 0 1 16,16 v 16 H 200 Z"
+       fill="#6ed2f0"
+       id="path839" />
+    <path
+       d="m 200,152 h 32 a 16,16 0 0 1 16,16 v 16 h -48 z"
+       fill="#2978b8"
+       id="path841" />
+  </g>
+</svg>
